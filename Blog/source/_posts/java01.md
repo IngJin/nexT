@@ -1,5 +1,5 @@
 ---
-title: JAVA 01 데이터타입
+title: JAVA기초 01.데이터타입
 categories:
   - JAVA
 tags:
@@ -60,15 +60,13 @@ date: 2019-04-03 18:56:37
   1. `기본자료형(PDT)`  
 	: 기본 데이터 타입의 크기가 정해져있다.
 	 CPU나 운영체제에 따라 변경되지 않는다. 
-	
 	 `정수형` : byte(1), short(2), int(4), long(8)
 	 `실수형` : float(4), double(8)
 	 `문자형(단일문자)` : char(2)
 	 `부울형(논리형)` : boolean(1)
 	 
   2. `사용자정의 자료형(UDDP)`
-	: 참조형 자료(Reference Type) → 4Byte	
-		
+	: 참조형 자료(Reference Type) → 4Byte		
 	`클래스 타입`
 	`인터페이스 타입`
 	`배열(열거) 타입`
